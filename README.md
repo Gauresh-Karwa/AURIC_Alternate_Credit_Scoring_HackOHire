@@ -76,6 +76,7 @@ Final feature matrix: **~229 features after encoding**.
 | Recall     | 0.6709 |
 | Precision  | 0.1831 |
 | Accuracy   | 0.7318 |
+
 The ensemble improves performance over the Logistic Regression baseline (ROC-AUC ~0.74).
 The model prioritizes **recall** to capture a higher proportion of defaulters.
 
